@@ -1,3 +1,5 @@
-Table of Contents
+Welcome to the DevContainer wiki!
 
-- [DevContainer](../DevContainer)
+## Table of Contents
+
+- [DevContainer](./DevContainer)
