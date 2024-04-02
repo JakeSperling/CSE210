@@ -1,5 +1,5 @@
 Welcome to the DevContainer wiki! 
-The development container is provided to help you set up the development quickly and easily. 
+The development container is provided to help you set up the development environment quickly and easily. 
 This wiki offers detailed instructions about how to use the devcontainer. 
 
 ## Accept Homework Assignments via GitHub Classroom
