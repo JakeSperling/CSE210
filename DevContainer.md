@@ -42,10 +42,7 @@ without stable Internet access.
 This approach requires you to install a few softwares on your local computer, 
 but once it is set up, no Internet connection is required.
 
-1. Install VSCode
-   (It's very likely that you have already installed VSCode for your regular use 
-    or for other courses; but if not, please follow the page at: 
-    https://code.visualstudio.com)
+1. If you haven't Installed VSCode, please follow the page at: https://code.visualstudio.com
 2. Install Docker: https://www.docker.com/get-started/
 3. Clone your repository to your local computer
 4. Make sure Docker is up and running in the background
@@ -62,7 +59,7 @@ but once it is set up, no Internet connection is required.
 
      <img width="550" src="https://github.com/UCSC-CSE-210A/devcontainer/assets/12905747/5fb953f2-87e0-4f5e-af3d-b910189a843d">
 
-7. A new VSCode window will be opened, and please wait for it to complete the setup process (usually this only takes 1~2 minutes)
+7. A new VSCode window will be opened, and please wait for it to complete the setup process (usually this only takes 1 or 2 minutes)
 
 ## Some useful Coq related commands in VSCode
 
